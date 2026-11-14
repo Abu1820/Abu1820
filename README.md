@@ -143,8 +143,6 @@
   <img src="assets/divider.svg" width="100%"/>
 </div>
 
-
-
 ## 🏆 Honors & Key Achievements
 
 <div align="center">
@@ -190,7 +188,9 @@
   🧠 Competitive Programming    → Advanced Problem Solving & Algorithm Optimization
 ```
 
-<br/>
+<p align="center">
+  <sub>👇 Explore my pinned repositories and live contribution activity below</sub>
+</p>
 
 <!-- FOOTER WAVE (HOSTED LOCALLY) -->
 <div align="center">
