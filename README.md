@@ -143,59 +143,7 @@
   <img src="assets/divider.svg" width="100%"/>
 </div>
 
-## 📌 Pinned Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      📖 <b><a href="https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform">CivicPulse-Smart-Governance-Platform</a></b> &nbsp; <code>Public</code>
-      <br/><br/>
-      <sub>Full-stack Smart Governance platform built with React, Spring Boot, and MySQL for reporting and tracking civic issues with JWT authentication.</sub>
-      <br/><br/>
-      🟤 <b>Java</b> &nbsp; 🟡 <b>JavaScript</b> &nbsp; • &nbsp; 🌟 <i>Production Platform</i>
-    </td>
-    <td width="50%" valign="top">
-      📖 <b><a href="https://github.com/Abu1820/UNIORA">UNIORA</a></b> &nbsp; <code>Public</code>
-      <br/><br/>
-      <sub>Seed-funded intelligent civic welfare platform matching citizens to central & state schemes with Gemini Vision OCR and Supabase.</sub>
-      <br/><br/>
-      🟡 <b>JavaScript</b> &nbsp; 🐍 <b>Python</b> &nbsp; • &nbsp; 💡 <i>KPRIET Seed-Funded</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      📖 <b><a href="https://github.com/Abu1820/House-Price-Prediction-ML">House-Price-Prediction-ML</a></b> &nbsp; <code>Public</code>
-      <br/><br/>
-      <sub>Predictive housing price valuation engine using Linear Regression and supervised machine learning pipelines in Python.</sub>
-      <br/><br/>
-      🟠 <b>Jupyter Notebook</b> &nbsp; • &nbsp; 🤖 <i>Machine Learning</i>
-    </td>
-    <td width="50%" valign="top">
-      📖 <b><a href="https://github.com/Abu1820/MainCrafts-Internship">MainCrafts-Internship</a></b> &nbsp; <code>Public</code>
-      <br/><br/>
-      <sub>Full Stack Web Development internship modules with responsive architecture and client-side state caching.</sub>
-      <br/><br/>
-      🔴 <b>HTML</b> &nbsp; 🟡 <b>JavaScript</b> &nbsp; • &nbsp; 💼 <i>Internship Project</i>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/divider.svg" width="100%"/>
-</div>
-
-## 📈 GitHub Contribution Activity
-
-<div align="center">
-  <p><b>186+ Contributions in the Last Year</b></p>
-  <a href="https://github.com/Abu1820">
-    <img src="assets/heatmap.svg" alt="Abdul Majeed's GitHub Contribution Heatmap" width="100%"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="assets/divider.svg" width="100%"/>
-</div>
 
 ## 🏆 Honors & Key Achievements
 
