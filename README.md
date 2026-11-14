@@ -25,35 +25,28 @@
 
 ### 👨‍💻 3. About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
-
-```java
-public class AbdulMajeed extends SoftwareEngineer {
-    private final String name = "Abdul Majeed R";
-    private final String location = "Coimbatore, India";
-    private final String degree = "B.E. Computer Science and Engineering (CGPA: 9.03)";
-    
-    private final String[] stack = {
-        "Java", "Spring Boot", "Spring Data JPA", 
-        "Hibernate", "MySQL", "PostgreSQL", 
-        "REST APIs", "JWT", "Python", "Cloudflare Workers"
-    };
-
-    private final String[] currentlyLearning = {
-        "Microservices Architecture", 
-        "Distributed Systems & Caching (Redis)", 
-        "Docker & Containerization"
-    };
-
-    private final String funFact = "Co-authored an Amazon Kindle book on AI Recommendation Systems while solving 400+ LeetCode problems!";
-
-    public String motto() {
-        return "Write clean, robust, and scalable code that powers real-world impact.";
-    }
-}
-```
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td valign="top" width="58%">
+      <p>
+        Hi there! I'm <b>Abdul Majeed R</b>, a passionate <b>Java Backend Developer</b> and <b>Computer Science & Engineering</b> undergraduate at <i>KPR Institute of Engineering and Technology</i> (CGPA: <b>9.03</b>).
+      </p>
+      <p>
+        I specialize in architecting scalable, secure RESTful web services and enterprise backend systems using <b>Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, and JWT</b>.
+      </p>
+      <ul>
+        <li>💼 <b>Backend Engineering:</b> Former Java Backend Intern at <b>Infosys Springboard</b> & Full Stack Intern at <b>MainCrafts</b>.</li>
+        <li>🧠 <b>Problem Solving:</b> Solved <b>400+ problems on LeetCode</b> with strong focus on DSA and algorithms.</li>
+        <li>📚 <b>Published Author:</b> Co-author of <i>"Mastering Recommendation Systems: From Basics to Breakthroughs"</i> on <b>Amazon Kindle</b>.</li>
+        <li>🚀 <b>Impact-Driven:</b> Creator of <b>CivicPulse</b> and <b>UNIORA</b> (awarded institutional <b>Seed Funding from KPRIET</b>).</li>
+        <li>🎯 <b>Current Focus:</b> Deepening expertise in Microservices, Distributed Caching (Redis), and Cloud Native Systems.</li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="42%">
+      <img width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" style="border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -118,16 +111,16 @@ public class AbdulMajeed extends SoftwareEngineer {
 
 <div align="center">
   <a href="https://github.com/Abu1820">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abu1820&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Abdul Majeed's GitHub Stats" height="195"/>
+    <img src="https://github-readme-stats-beryl-five.vercel.app/api?username=Abu1820&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Abdul Majeed's GitHub Stats" height="195"/>
   </a>
   <a href="https://github.com/Abu1820">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu1820&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" height="195"/>
+    <img src="https://github-readme-stats-beryl-five.vercel.app/api/top-langs/?username=Abu1820&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" height="195"/>
   </a>
 </div>
 
 <br/>
 
-### 🔥 7. Contribution Streak
+### 🔥 7. Contribution Streak & 8. Activity Heatmap
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abu1820&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats" width="85%"/>
@@ -135,10 +128,19 @@ public class AbdulMajeed extends SoftwareEngineer {
 
 <br/>
 
-### 📈 8. Activity Graph
+<div align="center">
+  <p><b>GitHub Contributions Activity Heatmap</b></p>
+  <a href="https://github.com/Abu1820">
+    <img src="https://ghchart.rshah.org/70a5fd/Abu1820" alt="Abu1820's GitHub Contributions Chart" width="95%"/>
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abu1820&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+  <a href="https://leetcode.com/u/Abu18/">
+    <img src="https://leetcard.jacoblin.cool/Abu18?theme=dark&font=Fira%20Code&ext=heatmap" alt="Abdul Majeed's LeetCode Stats" height="195"/>
+  </a>
 </div>
 
 <br/>
@@ -146,7 +148,7 @@ public class AbdulMajeed extends SoftwareEngineer {
 ### 🏆 9. Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abu1820&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Profile Trophies"/>
+  <img src="https://profile-trophy.vercel.app/?username=Abu1820&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Profile Trophies"/>
 </div>
 
 ---
