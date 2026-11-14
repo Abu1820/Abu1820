@@ -43,7 +43,7 @@
       </ul>
     </td>
     <td valign="middle" align="center" width="42%">
-      <img width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" style="border-radius: 12px;"/>
+      <img width="340" src="assets/code.gif" alt="Coding GIF" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
