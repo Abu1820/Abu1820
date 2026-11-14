@@ -147,41 +147,20 @@
 
 > 💡 *Check or uncheck repositories to filter and track projects:*
 
-- [x] 🏛️ **[CivicPulse-Smart-Governance-Platform](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)** — *Smart municipal civic reporting engine with Spring Boot, Hibernate, MySQL, and JWT.*
-- [x] 💡 **[UNIORA](https://github.com/Abu1820/UNIORA)** — *Seed-funded welfare scheme matching engine architected with Cloudflare Workers & Supabase.*
-- [x] 🎨 **[3D Interactive Portfolio](https://github.com/Abu1820)** — *Modern 3D portfolio powered by React, Three.js, TypeScript, and Tailwind CSS.*
-- [ ] 🤖 **[House-Price-Prediction-ML](https://github.com/Abu1820/House-Price-Prediction-ML)** — *Supervised Machine Learning regression pipeline in Python & Scikit-Learn.*
-- [ ] 💻 **[MainCrafts-Internship](https://github.com/Abu1820/MainCrafts-Internship)** — *Responsive web application interfaces and state management modules.*
-- [ ] ☕ **[StudentCRUD](https://github.com/Abu1820/StudentCRUD)** — *Enterprise Java & Spring Boot RESTful API with MySQL database integration.*
+- [x] 🏛️ **[CivicPulse-Smart-Governance-Platform](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)** `Java / React`
+  > Full-stack Smart Governance platform built with React, Spring Boot, and MySQL for reporting and tracking civic issues with JWT authentication.
 
-<br/>
+- [x] 💡 **[UNIORA](https://github.com/Abu1820/UNIORA)** `JavaScript / Cloudflare`
+  > Seed-funded intelligent civic welfare platform matching citizens to central & state schemes with Gemini Vision OCR, Supabase, and Cloudflare Workers.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform">🏛️ CivicPulse-Smart-Governance-Platform</a></b> <code>Public</code><br/>
-      <sub>Full-stack civic reporting platform with Spring Boot 3, REST APIs, and JWT security.</sub><br/><br/>
-      🟡 <b>Java & Spring Boot</b> &nbsp;•&nbsp; 🌟 Production Platform
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Abu1820/UNIORA">💡 UNIORA</a></b> <code>Public</code><br/>
-      <sub>Government welfare scheme eligibility matching engine with edge caching and Supabase.</sub><br/><br/>
-      🟡 <b>Python & Cloudflare</b> &nbsp;•&nbsp; 🌟 KPRIET Seed Funded
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Abu1820/House-Price-Prediction-ML">🤖 House-Price-Prediction-ML</a></b> <code>Public</code><br/>
-      <sub>Predictive housing price valuation model using Linear Regression algorithms in Python.</sub><br/><br/>
-      🟠 <b>Jupyter Notebook</b> &nbsp;•&nbsp; 🌟 Machine Learning
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Abu1820/MainCrafts-Internship">💻 MainCrafts-Internship</a></b> <code>Public</code><br/>
-      <sub>Responsive web architectures, dynamic DOM modules, and client-side caching.</sub><br/><br/>
-      🔴 <b>HTML & JavaScript</b> &nbsp;•&nbsp; 🌟 Internship Project
-    </td>
-  </tr>
-</table>
+- [x] 🎨 **[Portfolio](https://github.com/Abu1820/Portfolio)** `TypeScript / Three.js`
+  > Interactive 3D developer portfolio featuring Java & Spring Boot backend systems, seed-funded civic platforms, 400+ LeetCode solutions, and verified credentials.
+
+- [ ] 🤖 **[House-Price-Prediction-ML](https://github.com/Abu1820/House-Price-Prediction-ML)** `Jupyter Notebook / Python`
+  > House Price Prediction using Linear Regression and supervised machine learning pipelines in Python.
+
+- [ ] 💻 **[MainCrafts-Internship](https://github.com/Abu1820/MainCrafts-Internship)** `HTML / JavaScript`
+  > Full Stack Web Development internship projects featuring responsive multi-page web architectures and client-side state caching.
 
 <div align="center">
   <img src="assets/divider.svg" width="100%"/>
