@@ -143,16 +143,42 @@
   <img src="assets/divider.svg" width="100%"/>
 </div>
 
-## 🚀 Featured Projects
+## 📌 Pinned Repositories
 
-<div align="center">
-
-| Project | Tech Stack | Highlights & Impact Metrics |
-| :--- | :--- | :--- |
-| **[CivicPulse](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)**<br/><sub>Smart Governance Platform</sub> | `Java` `Spring Boot` `MySQL`<br/>`Hibernate` `JWT` `React` | • Developed end-to-end municipal issue tracking system with automated departmental routing.<br/>• Configured stateless JWT token auth protecting 15+ REST endpoints with multi-role access control.<br/>• Optimized Spring Data JPA ORM relationships, ensuring sub-100ms database response times. |
-| **[UNIORA](https://github.com/Abu1820/UNIORA)**<br/><sub>Welfare Schemes Platform</sub> | `Python` `JavaScript` `Supabase`<br/>`Cloudflare Workers` `HTML/CSS` | • Built an intelligent rule-based eligibility engine mapping citizens to government benefits.<br/>• **Awarded institutional Seed Funding from KPRIET** for technical innovation and social impact.<br/>• Deployed on Cloudflare Workers edge network, achieving global sub-50ms latency with offline accessibility. |
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      📖 <b><a href="https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform">CivicPulse-Smart-Governance-Platform</a></b> &nbsp; <code>Public</code>
+      <br/><br/>
+      <sub>Full-stack Smart Governance platform built with React, Spring Boot, and MySQL for reporting and tracking civic issues with JWT authentication.</sub>
+      <br/><br/>
+      🟤 <b>Java</b> &nbsp; 🟡 <b>JavaScript</b> &nbsp; • &nbsp; 🌟 <i>Production Platform</i>
+    </td>
+    <td width="50%" valign="top">
+      📖 <b><a href="https://github.com/Abu1820/UNIORA">UNIORA</a></b> &nbsp; <code>Public</code>
+      <br/><br/>
+      <sub>Seed-funded intelligent civic welfare platform matching citizens to central & state schemes with Gemini Vision OCR and Supabase.</sub>
+      <br/><br/>
+      🟡 <b>JavaScript</b> &nbsp; 🐍 <b>Python</b> &nbsp; • &nbsp; 💡 <i>KPRIET Seed-Funded</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      📖 <b><a href="https://github.com/Abu1820/House-Price-Prediction-ML">House-Price-Prediction-ML</a></b> &nbsp; <code>Public</code>
+      <br/><br/>
+      <sub>Predictive housing price valuation engine using Linear Regression and supervised machine learning pipelines in Python.</sub>
+      <br/><br/>
+      🟠 <b>Jupyter Notebook</b> &nbsp; • &nbsp; 🤖 <i>Machine Learning</i>
+    </td>
+    <td width="50%" valign="top">
+      📖 <b><a href="https://github.com/Abu1820/MainCrafts-Internship">MainCrafts-Internship</a></b> &nbsp; <code>Public</code>
+      <br/><br/>
+      <sub>Full Stack Web Development internship modules with responsive architecture and client-side state caching.</sub>
+      <br/><br/>
+      🔴 <b>HTML</b> &nbsp; 🟡 <b>JavaScript</b> &nbsp; • &nbsp; 💼 <i>Internship Project</i>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="assets/divider.svg" width="100%"/>
