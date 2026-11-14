@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul+Majeed+R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java+Backend+Developer+%7C+Spring+Boot+%26+Cloud+Enthusiast+%7C+400%2B+LeetCode&descAlignY=62&descSize=16" width="100%"/>
+<!-- HERO BANNER (GITHUB DARK THEMED) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a2744,75:213052,100:0d1117&height=210&section=header&text=Abdul+Majeed+R&fontSize=44&fontColor=58a6ff&animation=twinkling&fontAlignY=33&desc=Java+Backend+Developer+%E2%80%A2+Spring+Boot+%E2%80%A2+Distributed+Systems+%E2%80%A2+400%2B+LeetCode&descAlignY=64&descSize=16&descColor=c9d1d9" width="100%"/>
 
 <!-- TYPING HEADER -->
 <a href="https://github.com/Abu1820">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+Backend+Developer+%26+Software+Engineer;Spring+Boot+%7C+Spring+Data+JPA+%7C+REST+APIs;400%2B+DSA+Problems+Solved+on+LeetCode;Published+Author+on+Amazon+Kindle;Building+High-Performance+Scalable+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer+%E2%80%A2+Software+Engineer;Spring+Boot+%E2%80%A2+Spring+Data+JPA+%E2%80%A2+REST+APIs;400%2B+Problems+Solved+on+LeetCode;Published+Author+on+Amazon+Kindle;Building+High-Performance+Scalable+Backends" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,13 +15,14 @@
   <a href="mailto:abdulmajeed564600@gmail.com"><img src="https://img.shields.io/badge/Email-abdulmajeed564600%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/abdulmajeedr/"><img src="https://img.shields.io/badge/LinkedIn-abdulmajeedr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/Abu18/"><img src="https://img.shields.io/badge/LeetCode-Abu18%20(400%2B_Solved)-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://abdulmajeedr-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulmajeedr--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Abu1820&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://abdulmajeedr-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulmajeedr--portfolio.vercel.app-161b22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Abu1820"><img src="https://img.shields.io/badge/Status-Open_to_Opportunities-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/></a>
 </p>
 
-</div>
+<!-- GLOWING DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
 
----
+</div>
 
 ## 👨‍💻 About Me
 
@@ -29,26 +30,28 @@
   <tr>
     <td valign="top" width="58%">
       <p>
-        Hi there! I'm <b>Abdul Majeed R</b>, a passionate <b>Java Backend Developer</b> and <b>Computer Science & Engineering</b> undergraduate at <i>KPR Institute of Engineering and Technology</i> (CGPA: <b>9.03 / 10.0</b>).
+        👋 Hi there! I'm <b>Abdul Majeed R</b>, a passionate <b>Java Backend Developer</b> and <b>Computer Science & Engineering</b> undergraduate at <i>KPR Institute of Engineering and Technology</i> (CGPA: <b>9.03 / 10.0</b>).
       </p>
       <p>
-        I specialize in architecting scalable, secure RESTful web services and enterprise backend systems using <b>Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, and JWT Authentication</b>.
+        I specialize in engineering scalable, secure RESTful web services and enterprise backend systems using <b>Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, and JWT Authentication</b>.
       </p>
       <ul>
-        <li>💼 <b>Backend Engineering:</b> Former Java Backend Intern at <b>Infosys Springboard</b> & Full Stack Intern at <b>MainCrafts</b>.</li>
+        <li>💼 <b>Work Experience:</b> Java Backend Intern at <b>Infosys Springboard</b> & Full Stack Intern at <b>MainCrafts</b>.</li>
         <li>🧠 <b>Problem Solving:</b> Solved <b>400+ algorithmic problems on LeetCode</b> with consistent competitive programming practice.</li>
         <li>📚 <b>Published Author:</b> Co-author of <i>"Mastering Recommendation Systems: From Basics to Breakthroughs"</i> on <b>Amazon Kindle</b>.</li>
-        <li>🚀 <b>Impact-Driven:</b> Creator of <b>CivicPulse</b> and <b>UNIORA</b> (awarded institutional <b>Seed Funding from KPRIET</b>).</li>
+        <li>🚀 <b>Flagship Impact:</b> Creator of <b>CivicPulse</b> & <b>UNIORA</b> (awarded institutional <b>Seed Funding from KPRIET</b>).</li>
         <li>🎯 <b>Current Focus:</b> Deepening expertise in Microservices architecture, Distributed Caching (Redis), and Cloud Native platforms.</li>
       </ul>
     </td>
     <td valign="middle" align="center" width="42%">
-      <img width="340" src="assets/code.gif" alt="Coding GIF" style="border-radius: 12px;"/>
+      <img width="340" src="assets/code.gif" alt="Coding GIF" style="border-radius: 12px; border: 1px solid #30363d;"/>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+</div>
 
 ## 🛠️ Tech Stack & Competencies
 
@@ -105,7 +108,9 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+</div>
 
 ## 💼 Professional Experience
 
@@ -134,7 +139,9 @@
 - **Quality Assurance**: Awarded an official **Internship Completion Certificate** and **Letter of Recommendation (LOR)** for exemplary project delivery and code standards.
 </details>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -148,7 +155,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+</div>
 
 ## 🏆 Honors & Key Achievements
 
@@ -165,7 +174,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+</div>
 
 ## 🎓 Education & Certifications
 
@@ -180,7 +191,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+</div>
 
 ## 📚 Currently Exploring & Upskilling
 
@@ -193,7 +206,7 @@
 
 <br/>
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER WAVE (GITHUB DARK THEMED) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a2744,75:213052,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
