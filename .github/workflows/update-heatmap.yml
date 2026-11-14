@@ -25,10 +25,20 @@ jobs:
       - name: Fetch and theme latest contribution heatmap
         run: |
           mkdir -p assets
-          curl -s "https://ghchart.rshah.org/58a6ff/Abu1820" > assets/heatmap.svg
-          # Convert light-mode background to dark-mode palette matching GitHub Dark
+          # Fetch using official GitHub contribution green base
+          curl -s "https://ghchart.rshah.org/39d353/Abu1820" > temp_heatmap.svg || true
+          if grep -q 'data-score' temp_heatmap.svg 2>/dev/null; then
+            mv temp_heatmap.svg assets/heatmap.svg
+          fi
+          # Convert light-mode background and labels to GitHub Dark Mode
           sed -i 's/#EEEEEE/#161b22/g' assets/heatmap.svg
+          sed -i 's/#eeeeee/#161b22/g' assets/heatmap.svg
           sed -i 's/#767676/#8b949e/g' assets/heatmap.svg
+          # Convert active squares to GitHub's exact 4-level dark-mode green palette
+          sed -i 's/#a5f3ff/#0e4429/g' assets/heatmap.svg
+          sed -i 's/#8bd9ff/#006d32/g' assets/heatmap.svg
+          sed -i 's/#58a6ff/#26a641/g' assets/heatmap.svg
+          sed -i 's/#4685cc/#39d353/g' assets/heatmap.svg
 
       - name: Commit and push changes
         run: |
