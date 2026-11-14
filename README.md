@@ -143,37 +143,17 @@
   <img src="assets/divider.svg" width="100%"/>
 </div>
 
-## 📌 Top Repositories & Dynamic Showcase
+## 🚀 Featured Projects
 
 <div align="center">
-  <p><i>Live dynamic repository cards synced directly with GitHub:</i></p>
-  <a href="https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform">
-    <img src="https://github-readme-stats-beryl-five.vercel.app/api/pin/?username=Abu1820&repo=CivicPulse-Smart-Governance-Platform&theme=tokyonight&bg_color=0d1117&border_radius=10&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9" alt="CivicPulse Repo Card"/>
-  </a>
-  <a href="https://github.com/Abu1820/UNIORA">
-    <img src="https://github-readme-stats-beryl-five.vercel.app/api/pin/?username=Abu1820&repo=UNIORA&theme=tokyonight&bg_color=0d1117&border_radius=10&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9" alt="UNIORA Repo Card"/>
-  </a>
-  <br/>
-  <a href="https://github.com/Abu1820/Portfolio">
-    <img src="https://github-readme-stats-beryl-five.vercel.app/api/pin/?username=Abu1820&repo=Portfolio&theme=tokyonight&bg_color=0d1117&border_radius=10&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9" alt="Portfolio Repo Card"/>
-  </a>
-  <a href="https://github.com/Abu1820/House-Price-Prediction-ML">
-    <img src="https://github-readme-stats-beryl-five.vercel.app/api/pin/?username=Abu1820&repo=House-Price-Prediction-ML&theme=tokyonight&bg_color=0d1117&border_radius=10&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9" alt="House Price Prediction Repo Card"/>
-  </a>
+
+| Project | Tech Stack | Highlights & Impact Metrics |
+| :--- | :--- | :--- |
+| **[CivicPulse](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)**<br/><sub>Smart Governance Platform</sub> | `Java` `Spring Boot` `MySQL`<br/>`Hibernate` `JWT` `React` | • Developed end-to-end municipal issue tracking system with automated departmental routing.<br/>• Configured stateless JWT token auth protecting 15+ REST endpoints with multi-role access control.<br/>• Optimized Spring Data JPA ORM relationships, ensuring sub-100ms database response times. |
+| **[UNIORA](https://github.com/Abu1820/UNIORA)**<br/><sub>Welfare Schemes Platform</sub> | `Python` `JavaScript` `Supabase`<br/>`Cloudflare Workers` `HTML/CSS` | • Built an intelligent rule-based eligibility engine mapping citizens to government benefits.<br/>• **Awarded institutional Seed Funding from KPRIET** for technical innovation and social impact.<br/>• Deployed on Cloudflare Workers edge network, achieving global sub-50ms latency with offline accessibility. |
+| **[Portfolio](https://github.com/Abu1820/Portfolio)**<br/><sub>3D Interactive Portfolio</sub> | `React` `Three.js` `TypeScript`<br/>`Tailwind CSS` `Vite` | • Designed modern interactive portfolio with 3D canvas rendering and fluid responsive animations.<br/>• Integrated automated project showcases, verified credentials viewer, and interactive contact systems.<br/>• Scored 95+ performance benchmarks on mobile and desktop web audits. |
+
 </div>
-
-<br/>
-
-<details open>
-  <summary><b>📂 Interactive Project Explorer (Click to toggle details)</b></summary>
-  <br/>
-
-  - 🏛️ **[CivicPulse-Smart-Governance-Platform](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)** — *Full-stack Smart Governance platform built with React, Spring Boot 3, and MySQL for reporting and tracking civic issues with JWT authentication.*
-  - 💡 **[UNIORA](https://github.com/Abu1820/UNIORA)** — *Seed-funded intelligent civic welfare platform matching citizens to central & state schemes with Gemini Vision OCR, Supabase, and Cloudflare Workers.*
-  - 🎨 **[Portfolio](https://github.com/Abu1820/Portfolio)** — *Interactive 3D developer portfolio featuring Java & Spring Boot backend systems, seed-funded civic platforms, 400+ LeetCode solutions, and verified credentials.*
-  - 🤖 **[House-Price-Prediction-ML](https://github.com/Abu1820/House-Price-Prediction-ML)** — *House Price Prediction using Linear Regression and supervised machine learning pipelines in Python.*
-  - 💻 **[MainCrafts-Internship](https://github.com/Abu1820/MainCrafts-Internship)** — *Full Stack Web Development internship projects featuring responsive multi-page web architectures and client-side state caching.*
-</details>
 
 <div align="center">
   <img src="assets/divider.svg" width="100%"/>
