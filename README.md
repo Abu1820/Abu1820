@@ -158,7 +158,7 @@
 | :---: | :--- | :--- |
 | 🥇 | **1st Prize — CIT CRYPTERA 2026** | Won **1st place and ₹1,500 cash award** in Technical Puzzle Clash covering Operating Systems, DBMS, and Networks at Coimbatore Institute of Technology (Jan 2026). |
 | 🥈 | **2nd Prize — IEEE CodeQuest** | Secured **2nd place** in competitive coding tournament (Logic Sprint, HackerRank Arena, Mystery Code) organized by IEEE Education Society, KPRIET (Aug 2026). |
-| 💡 | **KPRIET Seed Funding Grant** | Selected for and received institutional **Seed Funding from KPRIET Innovation Cell** for Project UNIORA based on community feasibility and impact. |
+| 💡 | **KPRIET Seed Funding Grant** | Selected for and received institutional **Seed Funding from KPRIET Innovation Cell** for [**Project UNIORA**](https://github.com/Abu1820/UNIORA) ([Live Platform](https://uni-ora.uniora-official.workers.dev/dashboard/)) based on community feasibility and impact. |
 | 💻 | **LeetCode 400+ Problem Solver** | Solved **400+ algorithmic problems** across Arrays, Strings, Sliding Window, Hashing, Sorting, Trees, and Heaps ([Profile](https://leetcode.com/u/Abu18/)). |
 | 📚 | **Published Book Co-Author** | Co-authored ***"Mastering Recommendation Systems: From Basics to Breakthroughs"*** published on [Amazon Kindle](https://amzn.in/d/j7muHtb), covering CF and deep learning architectures. |
 | 🎖️ | **NPTEL Elite + Silver (80%)** | Ranked in Elite tier among **19,100+ candidates** in *Industry 4.0 and Industrial Internet of Things* certified by IIT Kharagpur (Prof. Sudip Misra). |
