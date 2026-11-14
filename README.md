@@ -151,7 +151,6 @@
 | :--- | :--- | :--- |
 | **[CivicPulse](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)**<br/><sub>Smart Governance Platform</sub> | `Java` `Spring Boot` `MySQL`<br/>`Hibernate` `JWT` `React` | • Developed end-to-end municipal issue tracking system with automated departmental routing.<br/>• Configured stateless JWT token auth protecting 15+ REST endpoints with multi-role access control.<br/>• Optimized Spring Data JPA ORM relationships, ensuring sub-100ms database response times. |
 | **[UNIORA](https://github.com/Abu1820/UNIORA)**<br/><sub>Welfare Schemes Platform</sub> | `Python` `JavaScript` `Supabase`<br/>`Cloudflare Workers` `HTML/CSS` | • Built an intelligent rule-based eligibility engine mapping citizens to government benefits.<br/>• **Awarded institutional Seed Funding from KPRIET** for technical innovation and social impact.<br/>• Deployed on Cloudflare Workers edge network, achieving global sub-50ms latency with offline accessibility. |
-| **[Portfolio](https://github.com/Abu1820/Portfolio)**<br/><sub>3D Interactive Portfolio</sub> | `React` `Three.js` `TypeScript`<br/>`Tailwind CSS` `Vite` | • Designed modern interactive portfolio with 3D canvas rendering and fluid responsive animations.<br/>• Integrated automated project showcases, verified credentials viewer, and interactive contact systems.<br/>• Scored 95+ performance benchmarks on mobile and desktop web audits. |
 
 </div>
 
