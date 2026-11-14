@@ -2,9 +2,15 @@ name: Update Contribution Heatmap
 
 on:
   schedule:
-    # Runs automatically every day at 00:00 UTC (5:30 AM IST)
-    - cron: '0 0 * * *'
+    # Runs automatically every 6 hours to capture daily commits promptly
+    - cron: '0 */6 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'assets/heatmap.svg'
+      - 'README.md'
 
 jobs:
   build:
