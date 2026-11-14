@@ -143,16 +143,57 @@
   <img src="assets/divider.svg" width="100%"/>
 </div>
 
-## 🚀 Featured Projects
+## 📌 Top Repositories & Interactive Showcase
+
+> 💡 *Check or uncheck repositories to filter and track projects:*
+
+- [x] 🏛️ **[CivicPulse-Smart-Governance-Platform](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)** — *Smart municipal civic reporting engine with Spring Boot, Hibernate, MySQL, and JWT.*
+- [x] 💡 **[UNIORA](https://github.com/Abu1820/UNIORA)** — *Seed-funded welfare scheme matching engine architected with Cloudflare Workers & Supabase.*
+- [x] 🎨 **[3D Interactive Portfolio](https://github.com/Abu1820)** — *Modern 3D portfolio powered by React, Three.js, TypeScript, and Tailwind CSS.*
+- [ ] 🤖 **[House-Price-Prediction-ML](https://github.com/Abu1820/House-Price-Prediction-ML)** — *Supervised Machine Learning regression pipeline in Python & Scikit-Learn.*
+- [ ] 💻 **[MainCrafts-Internship](https://github.com/Abu1820/MainCrafts-Internship)** — *Responsive web application interfaces and state management modules.*
+- [ ] ☕ **[StudentCRUD](https://github.com/Abu1820/StudentCRUD)** — *Enterprise Java & Spring Boot RESTful API with MySQL database integration.*
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform">🏛️ CivicPulse-Smart-Governance-Platform</a></b> <code>Public</code><br/>
+      <sub>Full-stack civic reporting platform with Spring Boot 3, REST APIs, and JWT security.</sub><br/><br/>
+      🟡 <b>Java & Spring Boot</b> &nbsp;•&nbsp; 🌟 Production Platform
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Abu1820/UNIORA">💡 UNIORA</a></b> <code>Public</code><br/>
+      <sub>Government welfare scheme eligibility matching engine with edge caching and Supabase.</sub><br/><br/>
+      🟡 <b>Python & Cloudflare</b> &nbsp;•&nbsp; 🌟 KPRIET Seed Funded
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Abu1820/House-Price-Prediction-ML">🤖 House-Price-Prediction-ML</a></b> <code>Public</code><br/>
+      <sub>Predictive housing price valuation model using Linear Regression algorithms in Python.</sub><br/><br/>
+      🟠 <b>Jupyter Notebook</b> &nbsp;•&nbsp; 🌟 Machine Learning
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Abu1820/MainCrafts-Internship">💻 MainCrafts-Internship</a></b> <code>Public</code><br/>
+      <sub>Responsive web architectures, dynamic DOM modules, and client-side caching.</sub><br/><br/>
+      🔴 <b>HTML & JavaScript</b> &nbsp;•&nbsp; 🌟 Internship Project
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <img src="assets/divider.svg" width="100%"/>
+</div>
 
-| Project | Tech Stack | Highlights & Impact Metrics |
-| :--- | :--- | :--- |
-| **[CivicPulse](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)**<br/><sub>Smart Governance Platform</sub> | `Java` `Spring Boot` `MySQL`<br/>`Hibernate` `JWT` `React` | • Developed end-to-end municipal issue tracking system with automated departmental routing.<br/>• Configured stateless JWT token auth protecting 15+ REST endpoints with multi-role access control.<br/>• Optimized Spring Data JPA ORM relationships, ensuring sub-100ms database response times. |
-| **[Uniora](https://github.com/Abu1820/UNIORA)**<br/><sub>Welfare Schemes Platform</sub> | `Python` `JavaScript` `Supabase`<br/>`Cloudflare Workers` `HTML/CSS` | • Built an intelligent rule-based eligibility engine mapping citizens to government benefits.<br/>• **Awarded institutional Seed Funding from KPRIET** for technical innovation and social impact.<br/>• Deployed on Cloudflare Workers edge network, achieving global sub-50ms latency with offline accessibility. |
-| **[3D Interactive Portfolio](https://github.com/Abu1820)**<br/><sub>Personal Portfolio & Showcase</sub> | `React` `Three.js` `TypeScript`<br/>`Tailwind CSS` `Vite` | • Designed modern interactive portfolio with 3D canvas rendering and fluid responsive animations.<br/>• Integrated automated project showcases, verified credentials viewer, and interactive contact systems.<br/>• Scored 95+ performance benchmarks on mobile and desktop web audits. |
+## 📈 GitHub Contribution Activity
 
+<div align="center">
+  <p><b>186+ Contributions in the Last Year</b></p>
+  <a href="https://github.com/Abu1820">
+    <img src="assets/heatmap.svg" alt="Abdul Majeed's GitHub Contribution Heatmap" width="100%"/>
+  </a>
 </div>
 
 <div align="center">
