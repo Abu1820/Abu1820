@@ -143,24 +143,37 @@
   <img src="assets/divider.svg" width="100%"/>
 </div>
 
-## 📌 Top Repositories & Interactive Showcase
+## 📌 Top Repositories & Dynamic Showcase
 
-> 💡 *Check or uncheck repositories to filter and track projects:*
+<div align="center">
+  <p><i>Live dynamic repository cards synced directly with GitHub:</i></p>
+  <a href="https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform">
+    <img src="https://github-readme-stats-beryl-five.vercel.app/api/pin/?username=Abu1820&repo=CivicPulse-Smart-Governance-Platform&theme=tokyonight&bg_color=0d1117&border_radius=10&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9" alt="CivicPulse Repo Card"/>
+  </a>
+  <a href="https://github.com/Abu1820/UNIORA">
+    <img src="https://github-readme-stats-beryl-five.vercel.app/api/pin/?username=Abu1820&repo=UNIORA&theme=tokyonight&bg_color=0d1117&border_radius=10&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9" alt="UNIORA Repo Card"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Abu1820/Portfolio">
+    <img src="https://github-readme-stats-beryl-five.vercel.app/api/pin/?username=Abu1820&repo=Portfolio&theme=tokyonight&bg_color=0d1117&border_radius=10&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9" alt="Portfolio Repo Card"/>
+  </a>
+  <a href="https://github.com/Abu1820/House-Price-Prediction-ML">
+    <img src="https://github-readme-stats-beryl-five.vercel.app/api/pin/?username=Abu1820&repo=House-Price-Prediction-ML&theme=tokyonight&bg_color=0d1117&border_radius=10&title_color=58a6ff&icon_color=bf91f3&text_color=c9d1d9" alt="House Price Prediction Repo Card"/>
+  </a>
+</div>
 
-- [x] 🏛️ **[CivicPulse-Smart-Governance-Platform](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)** `Java / React`
-  > Full-stack Smart Governance platform built with React, Spring Boot, and MySQL for reporting and tracking civic issues with JWT authentication.
+<br/>
 
-- [x] 💡 **[UNIORA](https://github.com/Abu1820/UNIORA)** `JavaScript / Cloudflare`
-  > Seed-funded intelligent civic welfare platform matching citizens to central & state schemes with Gemini Vision OCR, Supabase, and Cloudflare Workers.
+<details open>
+  <summary><b>📂 Interactive Project Explorer (Click to toggle details)</b></summary>
+  <br/>
 
-- [x] 🎨 **[Portfolio](https://github.com/Abu1820/Portfolio)** `TypeScript / Three.js`
-  > Interactive 3D developer portfolio featuring Java & Spring Boot backend systems, seed-funded civic platforms, 400+ LeetCode solutions, and verified credentials.
-
-- [ ] 🤖 **[House-Price-Prediction-ML](https://github.com/Abu1820/House-Price-Prediction-ML)** `Jupyter Notebook / Python`
-  > House Price Prediction using Linear Regression and supervised machine learning pipelines in Python.
-
-- [ ] 💻 **[MainCrafts-Internship](https://github.com/Abu1820/MainCrafts-Internship)** `HTML / JavaScript`
-  > Full Stack Web Development internship projects featuring responsive multi-page web architectures and client-side state caching.
+  - 🏛️ **[CivicPulse-Smart-Governance-Platform](https://github.com/Abu1820/CivicPulse-Smart-Governance-Platform)** — *Full-stack Smart Governance platform built with React, Spring Boot 3, and MySQL for reporting and tracking civic issues with JWT authentication.*
+  - 💡 **[UNIORA](https://github.com/Abu1820/UNIORA)** — *Seed-funded intelligent civic welfare platform matching citizens to central & state schemes with Gemini Vision OCR, Supabase, and Cloudflare Workers.*
+  - 🎨 **[Portfolio](https://github.com/Abu1820/Portfolio)** — *Interactive 3D developer portfolio featuring Java & Spring Boot backend systems, seed-funded civic platforms, 400+ LeetCode solutions, and verified credentials.*
+  - 🤖 **[House-Price-Prediction-ML](https://github.com/Abu1820/House-Price-Prediction-ML)** — *House Price Prediction using Linear Regression and supervised machine learning pipelines in Python.*
+  - 💻 **[MainCrafts-Internship](https://github.com/Abu1820/MainCrafts-Internship)** — *Full Stack Web Development internship projects featuring responsive multi-page web architectures and client-side state caching.*
+</details>
 
 <div align="center">
   <img src="assets/divider.svg" width="100%"/>
