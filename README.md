@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO BANNER (GITHUB DARK THEMED) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a2744,75:213052,100:0d1117&height=210&section=header&text=Abdul+Majeed+R&fontSize=44&fontColor=58a6ff&animation=twinkling&fontAlignY=33&desc=Java+Backend+Developer+%E2%80%A2+Spring+Boot+%E2%80%A2+Distributed+Systems+%E2%80%A2+400%2B+LeetCode&descAlignY=64&descSize=16&descColor=c9d1d9" width="100%"/>
+<!-- HERO BANNER (HOSTED LOCALLY) -->
+<img src="assets/banner.svg" alt="Abdul Majeed R Banner" width="100%"/>
 
 <!-- TYPING HEADER -->
 <a href="https://github.com/Abu1820">
@@ -14,13 +14,13 @@
 <p align="center">
   <a href="mailto:abdulmajeed564600@gmail.com"><img src="https://img.shields.io/badge/Email-abdulmajeed564600%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/abdulmajeedr/"><img src="https://img.shields.io/badge/LinkedIn-abdulmajeedr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/Abu18/"><img src="https://img.shields.io/badge/LeetCode-Abu18%20(400%2B_Solved)-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/Abu18/"><img src="https://img.shields.io/badge/LeetCode-Abu18%20(400%2B_Problems)-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://abdulmajeedr-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulmajeedr--portfolio.vercel.app-161b22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/Abu1820"><img src="https://img.shields.io/badge/Status-Open_to_Opportunities-238636?style=flat-square&logo=github&logoColor=white" alt="Status"/></a>
 </p>
 
 <!-- GLOWING DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 </div>
 
@@ -37,7 +37,7 @@
       </p>
       <ul>
         <li>💼 <b>Work Experience:</b> Java Backend Intern at <b>Infosys Springboard</b> & Full Stack Intern at <b>MainCrafts</b>.</li>
-        <li>🧠 <b>Problem Solving:</b> Solved <b>400+ algorithmic problems on LeetCode</b> with consistent competitive programming practice.</li>
+        <li>🧠 <b>Problem Solving:</b> Solved <b>400+ problems on LeetCode</b> with consistent problem-solving practice and contest participation.</li>
         <li>📚 <b>Published Author:</b> Co-author of <i>"Mastering Recommendation Systems: From Basics to Breakthroughs"</i> on <b>Amazon Kindle</b>.</li>
         <li>🚀 <b>Flagship Impact:</b> Creator of <b>CivicPulse</b> & <b>UNIORA</b> (awarded institutional <b>Seed Funding from KPRIET</b>).</li>
         <li>🎯 <b>Current Focus:</b> Deepening expertise in Microservices architecture, Distributed Caching (Redis), and Cloud Native platforms.</li>
@@ -50,7 +50,7 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+  <img src="assets/divider.svg" width="100%"/>
 </div>
 
 ## 🛠️ Tech Stack & Competencies
@@ -99,7 +99,7 @@
   <tr>
     <td align="left"><b>Core Fundamentals</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="DSA"/>
+      <img src="https://img.shields.io/badge/Algorithms_%26_Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="Algorithms"/>
       <img src="https://img.shields.io/badge/OOP-333333?style=flat-square&logo=java&logoColor=white" alt="OOP"/>
       <img src="https://img.shields.io/badge/Operating_Systems-4A154B?style=flat-square&logo=linux&logoColor=white" alt="OS"/>
       <img src="https://img.shields.io/badge/DBMS-003B57?style=flat-square&logo=databricks&logoColor=white" alt="DBMS"/>
@@ -109,7 +109,7 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+  <img src="assets/divider.svg" width="100%"/>
 </div>
 
 ## 💼 Professional Experience
@@ -140,7 +140,7 @@
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+  <img src="assets/divider.svg" width="100%"/>
 </div>
 
 ## 🚀 Featured Projects
@@ -156,7 +156,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+  <img src="assets/divider.svg" width="100%"/>
 </div>
 
 ## 🏆 Honors & Key Achievements
@@ -168,14 +168,14 @@
 | 🥇 | **1st Prize — CIT CRYPTERA 2026** | Won **1st place and ₹1,500 cash award** in Technical Puzzle Clash covering Operating Systems, DBMS, and Networks at Coimbatore Institute of Technology (Jan 2026). |
 | 🥈 | **2nd Prize — IEEE CodeQuest** | Secured **2nd place** in competitive coding tournament (Logic Sprint, HackerRank Arena, Mystery Code) organized by IEEE Education Society, KPRIET (Aug 2026). |
 | 💡 | **KPRIET Seed Funding Grant** | Selected for and received institutional **Seed Funding from KPRIET Innovation Cell** for [**Project UNIORA**](https://github.com/Abu1820/UNIORA) ([Live Platform](https://uni-ora.uniora-official.workers.dev/dashboard/)) based on community feasibility and impact. |
-| 💻 | **LeetCode 400+ Problem Solver** | Solved **400+ algorithmic problems** across Arrays, Strings, Sliding Window, Hashing, Sorting, Trees, and Heaps ([Profile](https://leetcode.com/u/Abu18/)). |
+| 💻 | **LeetCode 400+ Problem Solver** | Solved **400+ problems on LeetCode** with active participation in weekly and biweekly contests ([Profile](https://leetcode.com/u/Abu18/)). |
 | 📚 | **Published Book Co-Author** | Co-authored ***"Mastering Recommendation Systems: From Basics to Breakthroughs"*** published on [Amazon Kindle](https://amzn.in/d/j7muHtb), covering CF and deep learning architectures. |
 | 🎖️ | **NPTEL Elite + Silver (80%)** | Ranked in Elite tier among **19,100+ candidates** in *Industry 4.0 and Industrial Internet of Things* certified by IIT Kharagpur (Prof. Sudip Misra). |
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+  <img src="assets/divider.svg" width="100%"/>
 </div>
 
 ## 🎓 Education & Certifications
@@ -192,7 +192,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+  <img src="assets/divider.svg" width="100%"/>
 </div>
 
 ## 📚 Currently Exploring & Upskilling
@@ -201,12 +201,12 @@
   🧱 Distributed Systems       → Microservices Communication, Service Discovery (Eureka/Spring Cloud)
   ⚡ Performance Caching        → Redis Caching Strategies, Message Queuing (RabbitMQ / Kafka)
   🐳 Containerization & CI/CD  → Dockerizing Spring Boot Microservices & GitHub Actions Pipelines
-  🧠 Competitive Programming    → Advanced Dynamic Programming & Graph Theory
+  🧠 Competitive Programming    → Advanced Problem Solving & Algorithm Optimization
 ```
 
 <br/>
 
-<!-- FOOTER WAVE (GITHUB DARK THEMED) -->
+<!-- FOOTER WAVE (HOSTED LOCALLY) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a2744,75:213052,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="assets/footer.svg" alt="Footer Wave" width="100%"/>
 </div>
