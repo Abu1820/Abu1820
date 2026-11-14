@@ -143,6 +143,19 @@
   <img src="assets/divider.svg" width="100%"/>
 </div>
 
+## 📈 GitHub Contribution Activity
+
+<div align="center">
+  <p><b>186+ Contributions in the Last Year</b></p>
+  <a href="https://github.com/Abu1820">
+    <img src="assets/heatmap.svg" alt="Abdul Majeed's GitHub Contribution Heatmap" width="100%"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="assets/divider.svg" width="100%"/>
+</div>
+
 ## 🏆 Honors & Key Achievements
 
 <div align="center">
